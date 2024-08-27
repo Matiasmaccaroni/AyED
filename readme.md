@@ -1,3 +1,1 @@
-NOMBRE: MATIAS MACCARONI
-
-                                    COMISION: K1043
+NOMBRE: MATIAS MACCARONI                                   COMISION: K1043
